@@ -3,6 +3,9 @@
 
 This is a game app that allows players to learn new subjects.
 
+[demo.webm](https://github.com/Zephyxlink/zephyxlink/assets/158114708/8ca300b3-6ad5-4ec8-bd9d-41b0f434b28f)
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
